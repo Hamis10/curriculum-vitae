@@ -1,4 +1,3 @@
-![image](https://raw.githubusercontent.com/Hamis10/image-/3401e73d71bbf322077ce2d51ad70436ea835a27/Hams.jpg?token=BLUZMMYJRZ57V74XAHT6Y43HAFBO4)
 # curriculum-vitae
 ## Présentation :
 Hamissou Mohaman
