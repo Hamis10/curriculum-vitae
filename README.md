@@ -1,4 +1,4 @@
-![image](https://github.com/Hamis10/image-/commit/5448c4933e1cfdb014a746d4192f0680ac11ac74)
+![Ma photo de profil](https://raw.githubusercontent.com/Hamis10/image-/c4475be618ff3569f061248afbb153cee5ca9ec8/hams.jpg?token=BLUZMM7LD4GZVRQYMT7LF6DHAFEJM)
 # curriculum-vitae
 ## Présentation :
 Hamissou Mohaman
